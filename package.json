@@ -1,0 +1,17 @@
+{
+  "name": "nuke-bot",
+  "version": "1.0.0",
+  "description": "Discord nuke bot with scheduled and manual channel nuking",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^17.4.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
