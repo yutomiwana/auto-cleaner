@@ -1,4 +1,4 @@
-# 💣 Nuke Bot
+# 💣 Channel cleaner bot
 
 A Discord.js bot that deletes and recreates channels — preserving **every permission, category, and position** exactly as before.
 
