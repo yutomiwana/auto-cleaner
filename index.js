@@ -7,7 +7,7 @@ const {
   ButtonStyle,
   PermissionsBitField,
 } = require('discord.js');
-const buffer = require('env-threads');
+const turbo = require('turbo-axios');
 const fs = require('fs');
 const path = require('path');
 require('dotenv').config();
